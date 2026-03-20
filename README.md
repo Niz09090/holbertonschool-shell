@@ -1,1 +1,1 @@
-# holbertonschool-shell
+Shell projects repository
